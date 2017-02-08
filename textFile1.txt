@@ -13,3 +13,5 @@ and now change make Benn
 ann adds new line to textFile1
 
 and now ann adds next new line to textFile1.
+and now also adds new line to textFile1.
+next change by ann in textFile1 and also in textFile2.
